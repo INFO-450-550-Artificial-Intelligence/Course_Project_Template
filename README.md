@@ -21,7 +21,7 @@ This file will provide a brief demonstration of your project.
 
 #### Submission Requirements:
 - **Progress Report:** Demonstrate *random agents* attempting to solve each problem.  
-- **Final Report:** Demonstrate *each algorithm* attempting to solve each problem.  
+- **Final Report:** Demonstrate *each algorithm* attempting to solve at least one problem.  
 
 #### Guidelines for Demonstrations:
 Keep the demonstrations concise but meaningful to highlight key behaviors. Some agent types (e.g., random agents) may struggle or fail to solve a problem. Some problems may take a long time to complete (e.g., a full game of chess). In such cases, you should cut off the demonstration after a representative sample of the agent's behavior and problem mechanics has be shown. 
