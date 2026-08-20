@@ -45,7 +45,7 @@ These instructions will setup the evaluation environment we will use to evaluate
 - `pip install -r requirements.txt`
 
 ### Step 1: Clone the Repository
-Clone this repository to your local machine:  
+Click the green "Use this template" button in the upper right, and create your own copy of the repository. Next, clone your new repository to your local machine:  
 ```
 git clone <your_repo>
 ```
