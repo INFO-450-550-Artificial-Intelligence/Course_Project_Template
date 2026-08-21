@@ -61,7 +61,7 @@ Test your repository/environment:
 - Write the comparison logic in [`comparisons.py`](./comparisons.py).
 - Create the demonstrations in [`demo.py`](./demo.py).
 
-For detailed instructions, refer to the [Project Instructions](./project_instructions.md).
+For detailed instructions, refer to "Course Project Instructions" under "Content" on the D2L page.
 
 ### Step 3: Commit Regularly
 - Ensure at least 10 commits are made BEFORE the progress report submission deadline.
