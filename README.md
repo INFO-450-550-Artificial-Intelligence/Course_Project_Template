@@ -24,7 +24,7 @@ This file will provide a brief demonstration of your project.
 - **Final Report:** Demonstrate *each algorithm* attempting to solve at least one problem.  
 
 #### Guidelines for Demonstrations:
-Keep the demonstrations concise but meaningful to highlight key behaviors. Some agent types (e.g., random agents) may struggle or fail to solve a problem. Some problems may take a long time to complete (e.g., a full game of chess). In such cases, you should cut off the demonstration after a representative sample of the agent's behavior and problem mechanics has be shown. 
+Keep the demonstrations concise but meaningful to highlight key behaviors. Some agent types (e.g., random agents) may struggle or fail to solve a problem. Some problems may take a long time to complete (e.g., a full game of chess). In such cases, you should cut off the demonstration after a representative sample of the agent's behavior and problem mechanics has been shown. 
 
 ### 4. `problems.py`  
 This file will contain the implementation of the problems you are solving with your AI algorithms.  
@@ -35,11 +35,11 @@ This file will contain the implementation of the problems you are solving with y
 
 ## Instructions for Students
 
-### Step 0: Prepare Python Evironment
+### Step 0: Prepare Python Environment
 These instructions will setup the evaluation environment we will use to evaluate your project. Use this environment (without addition or modification) to make sure your code will run the same on our machines.
 - Download and install [Anaconda](https://www.anaconda.com/download)
-- Open Terminal (or Anaconda prompt in Windows)- 
-- `conda create --name evalenv python=3.9`- 
+- Open Terminal (or Anaconda prompt in Windows)
+- `conda create --name evalenv python=3.9`
 - `conda activate evalenv`
 - `pip install --upgrade pip`
 - `pip install -r requirements.txt`
@@ -49,10 +49,10 @@ Click the green "Use this template" button in the upper right, and create your o
 ```
 git clone <your_repo>
 ```
-Test your repository/evironment:  
-- Open Terminal (or Anaconda prompt in Windows)- 
+Test your repository/environment:  
+- Open Terminal (or Anaconda prompt in Windows)
 - `conda activate evalenv`
--  Open project directory (`cd <your_directory>` in Windows)
+- Open project directory: `cd <your_directory>`
 - `python demo.py`
   
 ### Step 2: Code Your Project
@@ -60,7 +60,6 @@ Test your repository/evironment:
 - Implement your algorithms in [`algorithms.py`](./algorithms.py).
 - Write the comparison logic in [`comparisons.py`](./comparisons.py).
 - Create the demonstrations in [`demo.py`](./demo.py).
-- Installed Dependencies or Libraries in [`requirements.txt`](./requirements.txt)
 
 For detailed instructions, refer to the [Project Instructions](./project_instructions.md).
 
