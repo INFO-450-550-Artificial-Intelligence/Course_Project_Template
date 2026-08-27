@@ -71,7 +71,7 @@ class TicTacToe:
       if state is None:
          state = self.state
       val = 0      
-      #pOne Wins
+      
       pZeroWins = [np.max(np.sum(state,0))==3,np.max(np.sum(state,1))==3,np.trace(state)==3,np.trace(state[:,::-1])==3]
       pOneWins = [np.min(np.sum(state,0))==-3,np.min(np.sum(state,1))==-3,np.trace(state)==-3,np.trace(state[:,::-1])==-3]
 
