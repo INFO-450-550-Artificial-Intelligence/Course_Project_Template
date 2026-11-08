@@ -1,5 +1,5 @@
 '''
-This file will contain your code for your problems. 
+This file will contain the code for your problems. 
 '''
 
 import numpy as np
